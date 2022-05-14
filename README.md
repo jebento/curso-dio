@@ -1,2 +1,2 @@
-# curso-dio
-Repositório para o curso DIO - Iniciando o Git/GitHub
+# Curso da Dio - Iniciando o Git/GitHub 🇧🇷
+Repositório para o curso DIO
