@@ -7,4 +7,6 @@ Branch:
 	master
 	staging
 
-
+Merge:
+	master
+	staging
